@@ -6,7 +6,7 @@ const TASKS = [
   { url: "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt", ua: "Mozilla/5.0" },
-  { url: "https:https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
+  { url: "https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u", ua: "AptvPlayer/1.2.5(iPhone)" }
 ];
 
@@ -217,7 +217,7 @@ async function main() {
   }
 
   // 写入文件
-  fs.writeFileSync('iptv.m3u', output);
+  fs.writeFileSync('iptv-cn.m3u', output);
   console.log(`\n🎉 处理完成！`);
   console.log(`共匹配到 ${totalChannels} 个模板频道，生成了 ${totalLinks} 条播放链接。`);
 }

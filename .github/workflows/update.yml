@@ -2,7 +2,7 @@ name: Update IPTV
 
 on:
   schedule:
-    - cron: '0 6 * * *' # 每天 UTC 时间 2 点（北京时间 10 点）执行
+    - cron: '0 2 * * *' # 每天 UTC 时间 2 点（北京时间 10 点）执行
   workflow_dispatch: # 允许你在网页上点按钮手动运行，方便调试
 
 jobs:
@@ -18,13 +18,16 @@ jobs:
           node-version: '20'
 
       - name: Run script
-        run: node index.js
+        run: node index-hn.js
+      - name: Run script
+        run: node index-cn.js
 
-      - name: Commit and push changes
+      - name: 提交并推送到仓库
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add iptv.m3u
+          # 把两个生成的文件一起提交
+          git add iptv-hn.m3u iptv-cn.m3u 
           # 如果文件没有变化，commit 会报错退出，所以加了 || true 忽略报错
-          git commit -m "Auto update and deduplicate IPTV list" || true
+          git commit -m "Auto update multiple lists" || true
           git push

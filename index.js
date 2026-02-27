@@ -5,7 +5,7 @@ const TASKS = [
   { url: "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", ua: "Mozilla/5.0" },
   { url: "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
-  { url: "https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt", ua: "Mozilla/5.0" },
+ //  { url: "https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt", ua: "Mozilla/5.0" },
   { url: "https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u", ua: "AptvPlayer/1.2.5(iPhone)" }
 ];

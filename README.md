@@ -1,1 +1,1 @@
-# iptv-cn
+# iptv-merge

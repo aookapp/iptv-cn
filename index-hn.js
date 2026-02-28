@@ -5,6 +5,7 @@ const TASKS = [
   { url: "https://live.lizanyang.top/hn.m3u", ua: "Mozilla/5.0" },
   { url: "https://itv.aptv.app/china-iptv/hnyd.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://itv.aptv.app/china-iptv/zgyd.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
+  { url: "https://raw.githubusercontent.com/aookapp/iptv/main/www.m3u", ua: "Mozilla/5.0" },
   { url: "https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", ua: "Mozilla/5.0" }
 ];
 
@@ -65,6 +66,7 @@ CINEMAX热门影院
 NEWTV动作电影
 #电影
 经典电影
+止戈电影
 神乐华语影院
 龙华电影
 功夫片
@@ -72,6 +74,7 @@ NEWTV动作电影
 电影谍战
 电影贺岁
 梁家辉
+周星星
 周星驰
 李连杰
 刘德华
@@ -87,6 +90,7 @@ NEWTV动作电影
 少儿动画
 动漫秀场
 新动漫
+银魂
 哆啦A梦
 海绵宝宝
 中华小当家

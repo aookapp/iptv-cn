@@ -225,24 +225,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227191/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040023/1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/山西卫视.png",山西卫视
 http://101.35.240.114:88/live.php?id=山西卫视
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/吉林卫视.png",吉林卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227240/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/吉林卫视.png",吉林卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/吉林卫视.png",吉林卫视
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031117/1.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/吉林卫视.png",吉林卫视
-http://47.119.24.76:59093/947472500
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/吉林卫视.png",吉林卫视
-http://101.35.240.114:88/live.php?id=吉林卫视
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/黑龙江卫视.png",黑龙江卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227207/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/黑龙江卫视.png",黑龙江卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/黑龙江卫视.png",黑龙江卫视
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000025203/1.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/黑龙江卫视.png",黑龙江卫视
-http://101.35.240.114:88/live.php?id=黑龙江卫视
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/江苏卫视4K.png",江苏卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/江苏卫视4K.png",江苏卫视
@@ -313,26 +295,6 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000006692/1.m3u8
 http://101.35.240.114:88/live.php?id=湖南卫视
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/湖南卫视4K.png",湖南卫视
 http://101.35.240.114:88/live.php?id=湖南卫视4K
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广东卫视4K.png",广东卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广东卫视4K.png",广东卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广东卫视4K.png",广东卫视
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000014694/1.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广东卫视4K.png",广东卫视
-http://47.119.24.76:59093/608831231
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广东卫视4K.png",广东卫视
-http://101.35.240.114:88/live.php?id=广东卫视
-#EXTINF:-1 tvg-name="广东卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广东卫视4K.png",广东卫视
-http://101.35.240.114:88/live.php?id=广东卫视4K
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广西卫视.png",广西卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227242/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广西卫视.png",广西卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广西卫视.png",广西卫视
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031118/1.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/广西卫视.png",广西卫视
-http://101.35.240.114:88/live.php?id=广西卫视
 #EXTINF:-1 tvg-name="海南卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/海南卫视.png",海南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226562/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/海南卫视.png",海南卫视
@@ -367,18 +329,6 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000006119/1.m3u8
 http://101.35.240.114:88/live.php?id=四川卫视
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/四川卫视4K.png",四川卫视
 http://101.35.240.114:88/live.php?id=四川卫视4K
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/贵州卫视.png",贵州卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227224/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/贵州卫视.png",贵州卫视
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000004000025843/1.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/贵州卫视.png",贵州卫视
-http://101.35.240.114:88/live.php?id=贵州卫视
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/云南卫视.png",云南卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227211/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/云南卫视.png",云南卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视" tvg-logo="https://live.lizanyang.top/tv/云南卫视.png",云南卫视
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031120/1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="数字" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/795/202308221159_1692676746119_H32_1080.webp",CHC动作电影
 http://47.119.24.76:59093/644368714
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="数字" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/554/795/202308221159_1692676746119_H32_1080.webp",CHC动作电影

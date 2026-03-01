@@ -4,7 +4,6 @@ const fs = require('fs');
 const TASKS = [
   { url: "https://live.lizanyang.top/hn.m3u", ua: "Mozilla/5.0" },
   { url: "https://itv.aptv.app/china-iptv/hnyd.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
-  { url: "https://itv.5iclub.dpdns.org/MiGu.m3u", ua: "Mozilla/5.0" },
   { url: "https://itv.aptv.app/china-iptv/zgyd.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://raw.githubusercontent.com/aookapp/iptv/main/www.m3u", ua: "Mozilla/5.0" },
   { url: "https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", ua: "Mozilla/5.0" }
@@ -61,13 +60,11 @@ CCTV风云足球
 贵州卫视
 云南卫视
 #数字
-CHC影迷电影
 CHC动作电影
 CHC家庭影院
 CINEMAX热门影院
 NEWTV动作电影
 #电影
-新片放映厅
 经典电影
 止戈电影
 神乐华语影院
@@ -90,11 +87,8 @@ NEWTV动作电影
 浙江少儿
 卡酷少儿
 金鹰卡通
-嘉佳卡通
 少儿动画
 动漫秀场
-优漫卡通频道
-经典动画大集合
 新动漫
 银魂
 哆啦A梦

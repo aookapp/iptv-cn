@@ -421,6 +421,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000001000/1000000002000025964/1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="动画" tvg-logo="https://live.lizanyang.top/tv/嘉佳卡通.png",嘉佳卡通
 http://47.119.24.76:59093/614952364
+#EXTINF:-1 tvg-name="优漫卡通频道" group-title="动画" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/553/202104022139_5100186455_H32_1080.webp",优漫卡通频道
+http://47.119.24.76:59093/626064703
 #EXTINF:-1 tvg-name="新动漫" group-title="动画" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/319/202512290851_1766568052605_H32_1080.webp",新动漫
 http://47.119.24.76:59093/961930269
 #EXTINF:-1 tvg-name="银魂" group-title="动画" tvg-logo="https://i0.hdslb.com/bfs/live-key-frame/keyframe02281616000031093767b1e741.jpg",银魂

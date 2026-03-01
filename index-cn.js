@@ -2,8 +2,10 @@ const fs = require('fs');
 
 // --- 1. 你要抓取的源列表配置 ---
 const TASKS = [
- { url: "https://itv.5iclub.dpdns.org/MiGu.m3u.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
+ { url: "https://itv.5iclub.dpdns.org/MiGu.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
  { url: "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", ua: "Mozilla/5.0" },
+ { url: "https://m.im5k.fun/mcp.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
+ { url: "https://im5k.fun/iptv.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
  { url: "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy", ua: "AptvPlayer/1.2.5(iPhone)" },
  { url: "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
  { url: "https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt", ua: "Mozilla/5.0" },
@@ -62,13 +64,12 @@ CCTV风云足球
 贵州卫视
 云南卫视
 #数字
-CHC影迷电影
 CHC动作电影
 CHC家庭影院
+CHC影迷电影
 CINEMAX热门影院
 NEWTV动作电影
 #电影
-新片放映厅
 经典电影
 止戈电影
 神乐华语影院
@@ -91,11 +92,10 @@ NEWTV动作电影
 浙江少儿
 卡酷少儿
 金鹰卡通
-嘉佳卡通
 少儿动画
 动漫秀场
+嘉佳卡通
 优漫卡通频道
-经典动画大集合
 新动漫
 银魂
 哆啦A梦
@@ -103,7 +103,6 @@ NEWTV动作电影
 中华小当家
 青春动漫BESTTV
 `;
-
 // --- 3. 解析模板并构建数据结构 ---
 const templateChannels = new Map(); // 使用 Map 保持模板的插入顺序
 

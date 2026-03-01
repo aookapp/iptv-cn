@@ -27,7 +27,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           # 把两个生成的文件一起提交
-          git add iptv-hn.m3u iptv-cn.m3u 
+          git add kankan-hn.m3u kankan-cn.m3u 
           # 如果文件没有变化，commit 会报错退出，所以加了 || true 忽略报错
           git commit -m "Auto update multiple lists" || true
           git push

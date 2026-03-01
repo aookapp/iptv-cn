@@ -5,8 +5,9 @@ const TASKS = [
   { url: "https://live.lizanyang.top/hn.m3u", ua: "Mozilla/5.0" },
   { url: "https://itv.aptv.app/china-iptv/hnyd.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://itv.aptv.app/china-iptv/zgyd.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
+  { url: "https://itv.5iclub.dpdns.org/MiGu.m3u", ua: "AptvPlayer/1.2.5(iPhone)" },
   { url: "https://raw.githubusercontent.com/aookapp/iptv/main/www.m3u", ua: "Mozilla/5.0" },
-  { url: "https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", ua: "Mozilla/5.0" }
+  { url: "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u", ua: "Mozilla/5.0" }
 ];
 
 // --- 2. 你的自定义频道筛选模板 ---

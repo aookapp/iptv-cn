@@ -257,10 +257,6 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/7851974109718180595/1.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="动画" tvg-logo="https://live.lizanyang.top/tv/金鹰卡通.png",金鹰卡通
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040024/1.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="动画" tvg-logo="https://live.lizanyang.top/tv/嘉佳卡通.png",嘉佳卡通
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="动画" tvg-logo="https://live.lizanyang.top/tv/嘉佳卡通.png",嘉佳卡通
-http://[2409:8087:1e01:23::10]:8112/000000001000/1000000002000025964/1.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" group-title="动画" tvg-logo="https://live.lizanyang.top/tv/动漫秀场.png",动漫秀场
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" group-title="动画" tvg-logo="https://live.lizanyang.top/tv/动漫秀场.png",动漫秀场

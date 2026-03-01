@@ -218,7 +218,7 @@ async function main() {
   }
 
   // 写入文件
-  fs.writeFileSync('iptv-hn.m3u', output);
+  fs.writeFileSync('kankan-hn.m3u', output);
   console.log(`\n🎉 处理完成！`);
   console.log(`共匹配到 ${totalChannels} 个模板频道，生成了 ${totalLinks} 条播放链接。`);
 }
